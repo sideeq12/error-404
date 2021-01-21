@@ -39,7 +39,7 @@ button{
    }
    .text{
        width: 100%;
-       margin: none;
+       margin-top: none;
        padding-top: none;
    }
 }
